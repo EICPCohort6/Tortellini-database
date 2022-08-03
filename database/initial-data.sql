@@ -5,7 +5,7 @@ INSERT INTO Courses (course_id, course_name, duration)
          (4, 'Node.js', 5),
 		 (5, 'VSCode', 1);
 
-INSERT INTO Students (student_id, student_fname, student_fname) 
+INSERT INTO Students (student_id, student_fname, student_lname) 
   VALUES (1, 'Keith', 'Simmons'), 
          (2, 'Zara', 'El Alaoui'), 
          (3, 'Petros', 'Filiogiannis'), 
